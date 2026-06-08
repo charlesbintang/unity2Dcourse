@@ -394,7 +394,7 @@ GameObject:
   - component: {fileID: 6769053645552102765}
   - component: {fileID: 8411923813481840029}
   m_Layer: 0
-  m_Name: New Tile Palette
+  m_Name: dungeon_tiles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
